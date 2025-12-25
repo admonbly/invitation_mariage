@@ -1,65 +1,65 @@
-# WEDDING INVITATION WEBSITE
+# SITE WEB D'INVITATION DE MARIAGE
 
-## Overview
+## Aperçu
 
-This project is a beautifully designed **Wedding Invitation Website** for the celebration of **TRAORE Moussa & KARAMOKO Fatoumata**. The website provides an interactive experience to invite guests, share the couple's story, and deliver key details about the event. It is crafted with modern web technologies, ensuring a delightful experience for all visitors.
-
----
-
-## Features
-
-1. **Welcome Modal**:
-   - Engages visitors with a warm welcome message and an option to play background music.
-   - Accessible with a "Start" button to enter the main site.
-
-2. **Header Section**:
-   - Displays a countdown timer for the wedding.
-   - Provides easy access to contact, location, and gift details.
-
-3. **About Us Section**:
-   - Showcases the Bride and Groom with their photos and a brief description of their personalities.
-
-4. **Timeline Section**:
-   - Presents the couple's love story through key milestones, each with images and descriptions.
-
-5. **Album**:
-   - A pre-wedding photo gallery powered by Swiper for smooth sliding and image previews via Fancybox.
-
-6. **Video Gallery**:
-   - Features a curated video capturing special moments and the proposal.
-
-7. **Dress Code**:
-   - Outlines the event timeline with visually engaging icons and text animations.
-
-8. **Invitation Details**:
-   - Includes location, time, and contact information for the wedding venue.
-
-9. **Gift Section**:
-   - Provides a QR code for sending gifts digitally.
-
-10. **Thank You Section**:
-    - Expresses gratitude to guests for their presence and blessings.
-
-11. **Background Audio**:
-    - Plays a romantic song with interactive controls.
+Ce projet est un **site web d'invitation de mariage** magnifiquement conçu pour la célébration de **TRAORE Moussa & KARAMOKO Fatoumata**. Le site web offre une expérience interactive pour inviter les invités, partager l'histoire du couple et fournir les détails clés de l'événement. Il est réalisé avec des technologies web modernes, assurant une expérience délicieuse pour tous les visiteurs.
 
 ---
 
-## Technologies Used
+## Fonctionnalités
 
-- **HTML5 & CSS3**: Structure and styling.
-- **JavaScript**: Interactive features and animations.
-- **UIkit**: Responsive layout and components.
-- **Swiper.js**: Carousel for photo albums.
-- **Fancybox**: Gallery lightbox integration.
-- **AOS.js**: Smooth scroll animations.
-- **LazyLoad**: Optimized image loading.
-- **ScrollReveal**: Smooth content reveal on scroll.
+1. **Modal de bienvenue** :
+   - Engage les visiteurs avec un message de bienvenue chaleureux et une option pour jouer de la musique de fond.
+   - Accessible avec un bouton "Commencer" pour entrer sur le site principal.
+
+2. **Section d'en-tête** :
+   - Affiche un compte à rebours pour le mariage.
+   - Fournit un accès facile aux contacts, à la localisation et aux détails des cadeaux.
+
+3. **Section À propos de nous** :
+   - Présente la Mariée et le Marié avec leurs photos et une brève description de leurs personnalités.
+
+4. **Section Chronologie** :
+   - Présente l'histoire d'amour du couple à travers des jalons clés, chacun avec des images et des descriptions.
+
+5. **Album** :
+   - Une galerie photo pré-mariage alimentée par Swiper pour un glissement fluide et des aperçus d'images via Fancybox.
+
+6. **Galerie vidéo** :
+   - Présente une vidéo organisée capturant des moments spéciaux et la demande en mariage.
+
+7. **Code vestimentaire** :
+   - Décrit la chronologie de l'événement avec des icônes visuellement engageantes et des animations de texte.
+
+8. **Détails de l'invitation** :
+   - Inclut l'emplacement, l'heure et les informations de contact pour le lieu du mariage.
+
+9. **Section cadeaux** :
+   - Fournit un code QR pour envoyer des cadeaux numériquement.
+
+10. **Section Merci** :
+    - Exprime la gratitude aux invités pour leur présence et leurs bénédictions.
+
+11. **Audio de fond** :
+    - Joue une chanson romantique avec des contrôles interactifs.
 
 ---
 
-## Credits
+## Technologies utilisées
 
-- **Icons**: Remixicon and FontAwesome.
-- **Libraries**: Swiper.js, Fancybox, AOS.js, and UIkit.
-- **Inspiration**: Special thanks to the creativity of **[nguyenminhdat](https://github.com/nguyenminhdat)**.
+- **HTML5 & CSS3** : Structure et stylisation.
+- **JavaScript** : Fonctionnalités interactives et animations.
+- **UIkit** : Mise en page responsive et composants.
+- **Swiper.js** : Carrousel pour les albums photo.
+- **Fancybox** : Intégration de la lightbox de galerie.
+- **AOS.js** : Animations de défilement fluides.
+- **LazyLoad** : Chargement d'images optimisé.
+- **ScrollReveal** : Révélation de contenu fluide lors du défilement.
+
+---
+
+## Crédits
+
+- **Icônes** : Remixicon et FontAwesome.
+- **Bibliothèques** : Swiper.js, Fancybox, AOS.js et UIkit.
+- **Inspiration** : Remerciements spéciaux à la créativité de **[nguyenminhdat](https://github.com/nguyenminhdat)**.
