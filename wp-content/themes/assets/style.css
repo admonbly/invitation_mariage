@@ -1141,6 +1141,11 @@ main {
     font-family: var(--title-font);
 }
 
+.invi_date,
+.invi_month {
+    font-size: var(--biger-size);
+}
+
 .invi_date_text,
 .invi_year_text {
     border-top: 1px solid var(--primary-color);
