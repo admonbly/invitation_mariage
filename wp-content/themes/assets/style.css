@@ -19,7 +19,7 @@
     --hot-color: ;
 
     /* fontsize */
-    --biger-size: 39px;
+    --biger-size: 29px;
     --larger-title: ;
     --title-fs: 24px;
     --subtitle-fs: ;
@@ -49,7 +49,7 @@
 @media only screen and (min-width: 540px) {
     :root {
         /* fontsize */
-        --biger-size: 51px;
+        --biger-size: 41px;
         --larger-title: ;
         --title-fs: 24px;
         --subtitle-fs: ;
@@ -68,7 +68,7 @@
 @media only screen and (min-width: 768px) {
     :root {
         /* fontsize */
-        --biger-size: 53px;
+        --biger-size: 43px;
         --larger-title: ;
         --title-fs: 32px;
         --subtitle-fs: ;
@@ -86,7 +86,7 @@
 @media only screen and (min-width: 1024px) {
     :root {
         /* fontsize */
-        --biger-size: 59px;
+        --biger-size: 49px;
         --larger-title: ;
         --title-fs: 32px;
         --subtitle-fs: ;
@@ -104,7 +104,7 @@
 @media only screen and (min-width: 1280px) {
     :root {
         /* fontsize */
-        --biger-size: 63px;
+        --biger-size: 53px;
         --larger-title: ;
         --title-fs: 32px;
         --subtitle-fs: ;
