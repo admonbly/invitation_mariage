@@ -680,6 +680,7 @@ main {
     height: 100%;
     object-fit: fill;
     object-position: center top;
+    transform: scale(0.75);
     -webkit-animation: kenburns-top 10s ease-out infinite both;
     animation: kenburns-top 10s ease-out infinite both
 }
