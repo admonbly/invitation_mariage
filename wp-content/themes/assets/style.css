@@ -678,7 +678,8 @@ main {
 .banner-bg {
     width: 100%;
     height: 100%;
-    object-fit: cover;
+    object-fit: fill;
+    object-position: center top;
     -webkit-animation: kenburns-top 10s ease-out infinite both;
     animation: kenburns-top 10s ease-out infinite both
 }
@@ -687,6 +688,7 @@ main {
     height: 100vh;
     overflow: hidden;
     position: relative;
+    background-color: rgba(253, 209, 114, 0.234);
 }
 
 .overlay {
