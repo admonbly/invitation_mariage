@@ -764,6 +764,10 @@ main {
 
 }
 
+.banner_year {
+    font-size: var(--biger-size);
+}
+
 .group-date {
     display: grid;
     gap: 10px;
@@ -777,6 +781,7 @@ main {
 
 .group-date span {
     text-align: center;
+    font-size: var(--biger-size);
 }
 
 .group-date span:nth-child(2) {
