@@ -1316,6 +1316,12 @@ main {
     }
 }
 
+@keyframes pulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.05); }
+    100% { transform: scale(1); }
+}
+
 /* Large devices such as laptops (1024px and up) */
 @media only screen and (min-width: 1024px) {}
 
